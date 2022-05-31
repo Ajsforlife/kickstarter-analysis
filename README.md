@@ -11,11 +11,11 @@ https://github.com/Ajsforlife/kickstarter-analysis/blob/main/kickstarter_challen
 
 ### Analysis of Outcomes Based on Launch Date
 The outcomes based on Launch Date section provided lots of amazing informtion. one of the biggest outcomes that I noticed was that there is a peak in successful campaigns that launced in the middle of the year. (May through July) However there was also a higher failed rate in these same months which you can conclude that there were more projects started at this time in the year. There was also a very small portion of cancled theater campgains and about a 60% success rate for theater campaigns. Toward the end of the year there are also very few canceled campaigns which also helps show that most theater campaigns are started in the middle of the year.
-!https://github.com/Ajsforlife/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
+![image1](https://github.com/Ajsforlife/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Based on this analysis the lower the goal target the higher chance of success there is for plays. As the Goals increase it seems that the success rate drops and the failure rate increases. However there are no canceled projects which means that most  of the campaigns actually succeeded. As you can see from the spreadsheet created, a large percentage of these campaigns succeeded. But like I said there is also an increased rate of success with lower goals and goals that are below 5000$
-!https://github.com/Ajsforlife/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png
+![image2](https://github.com/Ajsforlife/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 There were many things learned in this analysis. First and foremost how to use excel to chart and code to make the process easier. One of the challenges I personally encountered was with the COUNTIFS() command. I had issues for some reason when I originally linked it to the kickstarter worksheet data for goals where it showed no "goals" for the below 1000$ goal. I had to restart the code (even though I dont beleive i changed anything) for it to process the code and actually provide output. I then had issues with filling the rest of the spreadsheet for the outcomes based on goal segment of the challenge where it wouldnt paste and would link the clicked cell. However I overcame these challenges and finished the challenge. I also had a hard time figuring out how to provide the months in the pivot table for the launch dates section, which I eventually overcame.
