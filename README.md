@@ -33,4 +33,4 @@ The limitations of this data set is that it is very specific to plays, which red
 - What are some other possible tables and/or graphs that we could create?
 some other possible tables and graphs we could create could be a stacked bar graph to show the fail and success of certain goal paramaters.
 
-I added kickstarter_challenge2.zip which is everything from entire module and the assignment. ifyou are looking fro the descriptive statistics page also which didnt work in kickstarter_challenge.zip due to the removal of certain sheets. 
+I added kickstarter_challenge2.zip which is everything from entire module and the assignment. If you are looking for the descriptive statistics page also which didnt work in kickstarter_challenge.zip due to the removal of certain sheets. 
